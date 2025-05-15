@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Jamyl</h1>
-<h3 align="center">Data Scientist & Machine Learning Engineer</h3>
+<h3 align="center">Data Scientist & Analyst and AI/ML Engineer</h3>
 <h3 align="center"> I am a dedicated professional in Machine Learning and Big Data, with
  strong expertise in Artificial Intelligence, Data Science, and Data Engineering. My
  goal is to leverage my skills to solve complex problems and enhance business
