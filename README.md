@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mohamed Jamyl</h1>
 <h3 align="center">Analytical Data Scientist</h3>
-<h3 align="center"> I am a dedicated professional in Artificial Intelligence and Data Science, with
- strong expertise in Machine Learning, Deep Learning, Computer Vision, Data Mining, and Data Engineering. My
- goal is to leverage my skills to solve complex problems and enhance business
- processes through intelligent data utilization. </h3>
+<h3 align="center"> I am a dedicated professional in Artificial Intelligence and Data Science, I have developed strong expertise in data analysis, predictive modeling, and intelligent information processing applied across diverse fields such as business, scientific research, and chemistry.
+
+Throughout my journey, I have designed and optimized several machine learning models, including deep neural networks (DNNs) and convolutional neural networks (CNNs) for chemical image processing and analysis, ensuring high data quality and delivering interactive visualizations that support strategic decision-making.
+
+Proficient in tools such as Python, TensorFlow, Scikit-learn, Power BI, SQL, Pandas, and Matplotlib, I excel at transforming raw data into actionable insights that drive innovation, performance improvement, and optimization of industrial and chemical processes.
+
+Motivated by continuous learning, I aim to combine scientific analysis and AI innovation to create impactful, data-driven solutions that enhance efficiency and decision-making in an increasingly data-oriented world. </h3>
 
 - 📫 How to reach me **jamylmohamed3@gmail.com**
 
