@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Jamyl</h1>
-<h3 align="center">Analytical Data Scientist</h3>
+<h3 align="center">Data Scientist</h3>
 <h3 align="center"> I am a dedicated professional in Artificial Intelligence and Data Science, I have developed strong expertise in data analysis, predictive modeling, and intelligent information processing applied across diverse fields such as business, scientific research, and chemistry.
 
 Throughout my journey, I have designed and optimized several machine learning models, including deep neural networks (DNNs) and convolutional neural networks (CNNs) for chemical image processing and analysis, ensuring high data quality and delivering interactive visualizations that support strategic decision-making.
