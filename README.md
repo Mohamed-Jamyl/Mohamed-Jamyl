@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Jamyl</h1>
-<h3 align="center">Data Scientist</h3>
+<h3 align="center"></h3>
 <h3 align="center"> Data Analyst specializing in statistical modeling, predictive analytics, and large-scale data mining for complex systems.
 
 Core technical focus includes:
