@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Jamyl</h1>
 <h3 align="center"></h3>
-<h3 align="center"> Versatile Data Analyst with a strong background in Machine Learning and Advanced Analytics. Expert in predictive modeling, big data mining, and statistical inference to drive strategic decision-making. Skilled in applying advanced analytical methods to address challenges in business operations, chemical research, and process optimization, while transforming complex datasets into actionable insights that drive performance improvement and innovation across various domains. </h3>
+<h3 align="center"> Data Analyst with a strong background in Machine Learning and Advanced Analytics. Expert in predictive modeling, big data mining, and statistical inference to drive strategic decision-making. Skilled in applying advanced analytical methods to address challenges in business operations, chemical research, and process optimization, while transforming complex datasets into actionable insights that drive performance improvement and innovation across various domains. </h3>
 
 - 📫 How to reach me **jamylmohamed3@gmail.com**
 
